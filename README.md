@@ -7,7 +7,7 @@
 Sou apaixonado por resolver problemas e ajudar pessoas.
 Sou um QA Junior :computer: :running:
 
- :factory:  &nbsp; Estou trabalhando na **Knapp**
+ :factory:  &nbsp; Estou como PJ
  <br/> :purple_heart: &nbsp; Buscando me aperfeiçoar ainda mais em Testes e Front-End
  <br/> :blush: &nbsp; Posso te ajudar com Cypress, HTML, CSS
  <br/> :computer: &nbsp; Minha stack: Cypress, Git, CI/CD
